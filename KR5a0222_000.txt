@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:42:32.629509
+#+TITLE: 無上三天玉堂正宗高奔內景玉書
+#+PROPERTY: DZID  DZ0221
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—122 二卷 洞真部方法類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
